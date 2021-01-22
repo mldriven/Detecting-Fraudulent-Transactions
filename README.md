@@ -20,6 +20,6 @@ The loops can have any number of intermediate accounts.
              Account C to Account A ; Rs2,000
              Account C to Account A ; Rs3,000
 
-The task:
-Write a code in R/python to identify above suspicious transactions with minimal usage of loops.
-Note: Suspicious transactions to be flagged only if they occur within a day"
+The task: Write a code in R/python to identify above suspicious transactions with minimal usage of loops.
+
+Note: Suspicious transactions to be flagged only if they occur within a day.
